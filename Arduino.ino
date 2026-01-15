@@ -137,5 +137,3 @@ void setPotWiper(int addr, int pos) {
   Serial.print(" ");
   Serial.println(resistanceWB);
 }
-sketch_dec17a.ino
-4 KB
